@@ -1,6 +1,6 @@
 #!/bin/bash
 
-author=v2独享
+author=233boy
 # github=https://github.com/233boy/v2ray
 
 # bash fonts colors
